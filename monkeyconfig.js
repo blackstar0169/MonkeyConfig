@@ -7,12 +7,10 @@
 
 /*
  * MonkeyConfig
- * version 0.1.3
+ * version 0.1.4
  *
  * Copyright (c) 2011-2013 Michal Wojciechowski (odyniec.net)
  */
-
-console.log("MonkeyConfig loaded");
 
 function MonkeyConfig() {
     var cfg = this,
