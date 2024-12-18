@@ -1,9 +1,16 @@
 MonkeyConfig
 ============
 
+**This is a fork of MonkeyConfig by Odyniec. This is meant to fix future issues with the original fork du to browser security changes.**
+
 MonkeyConfig is a simple configuration library for user scripts. It allows for
 easy creation of configuration dialog windows and takes care of storing and
 retrieving the configuration parameters for the script.
+
+What does this fork fixes ?
+-------------
+
+- The `This document requires 'TrustedHTML' assignment.` error
 
 Usage Example
 -------------
